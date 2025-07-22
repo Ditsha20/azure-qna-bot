@@ -1,0 +1,4 @@
+﻿NAME,TYPE,LOCATION,RESOURCE GROUP,SUBSCRIPTION,LAST ACCESSED
+"atcslindia","Resource group","East US","atcslindia","Azure subscription 1","4 days ago"
+"atcsllanguagestudio","Language","East US","atcslindia","Azure subscription 1","4 days ago"
+"atcsllanguagestudio","Managed Identity","East US","atcslindia","Azure subscription 1","4 days ago"
